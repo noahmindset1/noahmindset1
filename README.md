@@ -1,16 +1,16 @@
 ![Mindset (1)](https://github.com/noahmindset1/noahmindset1/assets/157752909/7a0e91e4-8423-4f1b-aeef-ea5bc75b01c5)
 
 > Mastered Languages
-> python
-> java
-> c#
-> rust
-> c++
-> html
-> css
-> typescript
-> kotlin
-> javascript
+ python
+ java
+  c#
+ rust
+ c++
+ html
+ css
+ typescript
+ kotlin
+ javascript
 
 > `check out dblmapiv2`
 
