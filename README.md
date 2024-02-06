@@ -1,4 +1,4 @@
-![Mindset (1)](https://github.com/noahmindset1/noahmindset1/assets/157752909/7a0e91e4-8423-4f1b-aeef-ea5bc75b01c5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=mindset;github.com%2Fnoahmindset1)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
@@ -8,9 +8,9 @@
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-------
 > `check out dblmapiv2`
------
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 ## current project
 ```
 $==============================================================================================================$
