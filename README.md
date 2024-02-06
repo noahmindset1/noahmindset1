@@ -40,3 +40,5 @@ $===============================================================================
 
 **credits to natrix dev for some of the stuff.**
 `readme v1.0.1`
+
+[![GitHub](https://img.shields.io/badge/GitHub-noahmindset1-blue?style=for-the-badge&logo=github)](https://github.com/noahmindset1/)
