@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
-
-> `check out dblmapiv2`
+### ✅ stats
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=noahmindset1&count_private=true&show_icons=true&hide=contribs)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 > ### 🔨 current project
