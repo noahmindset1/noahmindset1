@@ -1,17 +1,13 @@
 ![Mindset (1)](https://github.com/noahmindset1/noahmindset1/assets/157752909/7a0e91e4-8423-4f1b-aeef-ea5bc75b01c5)
 
- `Mastered Languages:`
- -------
- python
- java
-  c#
- rust
- c++
- html
- css
- typescript
- kotlin
- javascript
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+
+> ### ⚙️ Mastered languages: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
 ------
 > `check out dblmapiv2`
 -----
