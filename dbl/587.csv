@@ -1,0 +1,2 @@
+character_id,character_name,character_type,gauge,base_stats_hp,base_stats_strike_atk,base_stats_strike_def,base_stats_blast_atk,base_stats_blast_def,pierce_resist,slice_resist,impact_resist,explode_resist,critical_rate,ki_recover,vanish_recover,change_cd
+587,God of Destruction Beerus,Sparking BLU,No Gauge,22270,2159,1620,2301,1667,100,100,100,100,15.65%,27.97%,20.00%,10s
