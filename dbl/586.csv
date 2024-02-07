@@ -1,34 +1,15 @@
-name,ability,id,traits,basestats
-Ultra Instinct -Sign- Goku,Main Ability,ULTRA,,Resonance of Force (Universe Rep),Pride and Promise Entrusted,Ever-Perfecting Offense and Defense
-,,586,"Son Family
-Saiyan
-God Ki
-Universe Rep
-Male
-ULTRA
-Ranged Type
-YEL
-Universe Survival Saga (S)
-Goku
-Fast Draw (Multi)
-Ultimate Arts
-Special Cover Change (Strike)
-Special Cover Change Nullification
-Unfavorable Element Factor Nullification
-Unique Gauge
-No Switching
-Cover Change Prevention",Base Stats
-,,,
-HP: 25055
-Strike ATK: 2531
-Strike DEF: 1692
-Blast ATK: 2764
-Blast DEF: 1716
-Pierce Resist: 100
-Slice Resist: 100
-Impact Resist: 100
-Explode Resist: 100
-Critical Rate: 13.81%
-Ki Recover: 23.73%
-Vanish Recover: 20.00%
-Change CD: 10s
+name,gaugeid,traits,basestats
+Unique Gauge,No Switching,Cover Change Prevention,Base Stats
+HP,25055
+Strike ATK,2531
+Strike DEF,1692
+Blast ATK,2764
+Blast DEF,1716
+Pierce Resist,100
+Slice Resist,100
+Impact Resist,100
+Explode Resist,100
+Critical Rate,13.81%
+Ki Recover,23.73%
+Vanish Recover,20.00%
+Change CD,10s
