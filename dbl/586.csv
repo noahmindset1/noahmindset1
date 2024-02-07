@@ -1,2 +1,2 @@
-character_id,character_name,character_type,gauge,main_ability
-586,Ultra Instinct -sign- Goku,Ultra YEL,Cover Change Null,Main Ability Instinct That Surpasses MindRandomly destroys two of your own Cards and draws a Special Arts Card & the Ultimate Arts Card "Instantaneous Assault" next. Restores own health by 30% and Ki by 30.Restores own Unique Gauge by 50%.Nullifies enemy's "Restores health when it reaches 0" effects for 15 timer counts when this character attacks.Requirements: 25 timer counts must elapse.
+character_id,character_name,character_type,gauge,base_stats_hp,base_stats_strike_atk,base_stats_strike_def,base_stats_blast_atk,base_stats_blast_def,pierce_resist,slice_resist,impact_resist,explode_resist,critical_rate,ki_recover,vanish_recover,change_cd
+586,Ultra Instinct -sign- Goku,Ultra YEL,Cover Change Null,25055,2531,1692,2764,1716,100,100,100,100,13.81%,23.73%,20.00%,10s
